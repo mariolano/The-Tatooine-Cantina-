@@ -1,10 +1,10 @@
-# 🌌 The Tatooine Cantina  
+# The Tatooine Cantina  
 
 This repository contains a Python implementation of the **K-Nearest Neighbors (KNN)** algorithm in a *Star Wars*–themed scenario. The program predicts whether a new alien entering the Tatooine Cantina is **dangerous** or not, based on its similarity to known aliens.  
 
 ---
 
-## 📖 Project Overview  
+## Project Overview  
 In this project, Han Solo records the traits of different aliens in the Tatooine Cantina, such as their **color, height, weight, and eyes**. When a new alien enters, the program uses the **KNN algorithm** to determine if it is dangerous.  
 
 The project combines:  
@@ -14,7 +14,7 @@ The project combines:
 
 ---
 
-## 🎯 What You’ll Learn  
+## What You’ll Learn  
 By working with this repository, you will:  
 - Understand and implement the **K-Nearest Neighbors (KNN)** algorithm from scratch.  
 - Practice **Object-Oriented Programming (OOP)** principles in Python.  
@@ -24,7 +24,7 @@ By working with this repository, you will:
 
 ---
 
-## 📂 Project Structure  
+## Project Structure  
 
 ````markdown
 tatooine-cantina/
@@ -38,7 +38,7 @@ tatooine-cantina/
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. **Dataset Load**
 
@@ -63,7 +63,7 @@ tatooine-cantina/
 
 ---
 
-## ⚡ Quick Start Demo
+## Quick Start Demo
 
 ```text
 Insert apparent alien attribute in the following order: Color(1), Height(2), Weight(3), and Eyes(4)
@@ -85,7 +85,7 @@ New alien of classification (1, 3, 2, 2) is dangerous...
 
 ---
 
-## 🚀 Project Extension Ideas
+## Project Extension Ideas
 
 Want to take this project further? Here are some ideas:
 
@@ -98,9 +98,9 @@ Want to take this project further? Here are some ideas:
 
 ---
 
-## 👩‍💻 Maintainers & Contributors
+## Maintainers & Contributors
 
 * **Maria Olano**
 * **Marc Jalkh**
 * **Shrishti Thakur**
-(EECE 2140: Computing Fundamentals for Engineers)
+**(EECE 2140: Computing Fundamentals for Engineers)**
