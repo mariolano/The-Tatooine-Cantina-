@@ -63,7 +63,7 @@ tatooine-cantina/
 
 ---
 
-## Quick Start Demo
+## Start Demo
 
 ```text
 Insert apparent alien attribute in the following order: Color(1), Height(2), Weight(3), and Eyes(4)
