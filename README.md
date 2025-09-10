@@ -1,4 +1,3 @@
-````markdown
 # 🌌 The Tatooine Cantina  
 
 This repository contains a Python implementation of the **K-Nearest Neighbors (KNN)** algorithm in a *Star Wars*–themed scenario. The program predicts whether a new alien entering the Tatooine Cantina is **dangerous** or not, based on its similarity to known aliens.  
@@ -27,7 +26,7 @@ By working with this repository, you will:
 
 ## 📂 Project Structure  
 
-```text
+````markdown
 tatooine-cantina/
 │
 ├── TatooineCantina.py    # Main Python script with KNN class implementation
@@ -105,7 +104,3 @@ Want to take this project further? Here are some ideas:
 * **Marc Jalkh**
 * **Shrishti Thakur**
 (EECE 2140: Computing Fundamentals for Engineers)
-```
-
-Do you also want me to include a **diagram or flowchart (ASCII or Markdown)** under *How It Works* to visually explain the KNN steps? That could make it even easier for new visitors to grasp the workflow quickly.
-```
