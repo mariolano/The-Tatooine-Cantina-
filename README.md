@@ -120,4 +120,5 @@ Want to take this project further? Here are some ideas:
 * **Maria Olano**
 * **Marc Jalkh**
 * **Shrishti Thakur**
+
 **(EECE 2140: Computing Fundamentals for Engineers)**
