@@ -63,6 +63,23 @@ tatooine-cantina/
 
 ---
 
+## Running the Program
+
+Clone this repo and run:
+```text
+git clone https://github.com/your-username/tatooine-cantina.git
+cd tatooine-cantina
+python TatooineCantina.py
+```
+
+You’ll be prompted to enter:
+
+The alien’s attributes in order: Color, Height, Weight, Eyes in pairs
+
+The number of neighbors (k) to consider (1–8).
+
+The program will then classify the alien as Dangerous or Not Dangerous.
+
 ## Start Demo
 
 ```text
